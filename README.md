@@ -1,0 +1,2 @@
+# SolutionDeployerAddin
+SolutionDeplorer addin project

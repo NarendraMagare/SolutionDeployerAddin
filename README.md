@@ -2,7 +2,7 @@
 Useful for developers and admins. It helps user to list all unmanaged solutions from given source environment. User can select one solution and deploy it to target environment.
 This tool will take care export and import process, if there are any missing dependencies at target environment, this tool will show list of missing components. User can select a missing component and click on Resolve Dependency.
 
-Refer [Planned for future](https://github.com/NarendraMagare/SolutionDeployerAddin/edit/main/README.md#planned-for-future) section for planned features
+Refer [Planned for future](https://github.com/NarendraMagare/SolutionDeployerAddin/edit/main/README.md#planned-for-future) section for upcomging features
 
 ## NOTE
 1) Current version of the tool supports resolution of attribute type of components(missing dependency) only.

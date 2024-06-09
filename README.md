@@ -72,6 +72,13 @@ Refer [Planned for future](https://github.com/NarendraMagare/SolutionDeployerAdd
 
     - Initiate Solution deployment process again by Loading solution and deploy it ( refer step 7 above). 
 
+**Settings file**
+
+Tool maintains settings file "SolutionDeployer.xml" typically located at "AppData\Roaming\MscrmTools\XrmToolBox\Settings\". Currently file contains list of solutions to be restricted the movement from one environment to another. Additional solutions can be added to this list as needed.
+
+![image](https://github.com/NarendraMagare/SolutionDeployerAddin/assets/10857505/81febb03-5565-485a-b17b-73109941b536)
+
+
 # Planned for future
 
 1. Support for export as managed solution and versioning.

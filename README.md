@@ -78,6 +78,16 @@ Tool maintains settings file "SolutionDeployer.xml" typically located at "AppDat
 
 ![image](https://github.com/NarendraMagare/SolutionDeployerAddin/assets/10857505/81febb03-5565-485a-b17b-73109941b536)
 
+**Limitations**
+
+Few dependency errors such as below cant be automate currently. Those should be resolved manually at source.
+Few dependencies are 
+
+![image](https://github.com/NarendraMagare/SolutionDeployerAddin/assets/10857505/17d98c06-f38d-4b5c-b6ac-a15673aa7d68)
+
+
+`Error importing solution
+The entity relationship role of the referencing entity is required when creating a new one-to-many entity relationship new_FileAttachment_Account_sdp_test9.`
 
 # Planned for future
 
